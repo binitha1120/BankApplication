@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="org.cap.test.bankapp.BankAppMocitoTestCase" time="0.106" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="org.cap.test.bankapp.BankAppMocitoTestCase" time="0.105" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.11+9-LTS-194"/>
@@ -65,7 +65,7 @@
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase classname="org.cap.test.bankapp.BankAppMocitoTestCase" name="test_AddAccount_method" time="0.104"/>
-  <testcase classname="org.cap.test.bankapp.BankAppMocitoTestCase" name="test_deposit" time="0.001"/>
-  <testcase classname="org.cap.test.bankapp.BankAppMocitoTestCase" name="test_findAccountById" time="0.001"/>
-  <testcase classname="org.cap.test.bankapp.BankAppMocitoTestCase" name="test_withdraw" time="0"/>
+  <testcase classname="org.cap.test.bankapp.BankAppMocitoTestCase" name="test_deposit" time="0"/>
+  <testcase classname="org.cap.test.bankapp.BankAppMocitoTestCase" name="test_findAccountById" time="0"/>
+  <testcase classname="org.cap.test.bankapp.BankAppMocitoTestCase" name="test_withdraw" time="0.001"/>
 </testsuite>
